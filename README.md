@@ -5,7 +5,7 @@
 
 I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Shopify expert who creates educational content for newbies and other developers who are willing to learn something new!
 
-**About me:-**
+**##About me:-**
 - I’m currently working as React developer
 - I’m currently expanding my knowledge in Full-Stack Development
 - I’m looking to expand my network by connecting with other developers!
@@ -16,7 +16,7 @@ I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Shopify expe
 **![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasnaat-Iftikhar&show_icons=true)**
 
 
-**My Skillset:-**
+**##My Skillset:-**
 - HTML 5 & CSS 3
 - SASS
 - Bootstrap
@@ -28,9 +28,6 @@ I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Shopify expe
 - Shopify
 - Webflow
 - Git & GitHub
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hasnaat-Iftikhar)  
-
 
 
 
