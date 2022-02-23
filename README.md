@@ -7,8 +7,8 @@ I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Shopify expe
 
 ## About me:-
 - I’m currently working as React developer
-- I’m currently expanding my knowledge in Full-Stack Development
-- I’m looking to expand my network by connecting with other developers!
+- Expanding my knowledge in Full-Stack Development
+- Looking to expand my network by connecting with other developers!
 - Love to work on open source projects
 - 2022 Goals: Want to become an expert in Full-Stack development, DevOps engineering and DSA
 
