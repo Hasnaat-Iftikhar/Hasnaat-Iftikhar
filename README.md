@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hasnaat
-![](https://media-exp1.licdn.com/dms/image/C4E16AQHAyLHmndf82A/profile-displaybackgroundimage-shrink_350_1400/0/1635874472944?e=1651104000&v=beta&t=5JYM6HMBa6bnL3jfrDVrPLQZHzOobkQ57lma-YXoyfA)
-
 **JavaScript Developer | Content Creator | Frontend engineer | React.js & Firebase**
+
+![](https://media-exp1.licdn.com/dms/image/C4E16AQHAyLHmndf82A/profile-displaybackgroundimage-shrink_350_1400/0/1635874472944?e=1651104000&v=beta&t=5JYM6HMBa6bnL3jfrDVrPLQZHzOobkQ57lma-YXoyfA)
 
 I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Shopify expert who creates educational content for newbies and other developers who are willing to learn something new!
 
@@ -24,4 +24,8 @@ I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Shopify expe
 - I’m looking to expand my network by connecting with other developers!
 - Love to work on open source projects
 - 2022 Goals: Want to become an expert in Full-Stack development, DevOps engineering and DSA
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hasnaat-Iftikhar)  
 
