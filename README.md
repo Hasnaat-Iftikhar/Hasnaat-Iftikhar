@@ -1,16 +1,16 @@
 # Hi there 👋, I'm Hasnaat
-**JavaScript Developer | Content Creator | Frontend engineer | React.js & Firebase**
+**JavaScript Developer | Content Creator | MERN Stack developer | Love to teach CS concepts**
 
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQHAyLHmndf82A/profile-displaybackgroundimage-shrink_350_1400/0/1635874472944?e=1651104000&v=beta&t=5JYM6HMBa6bnL3jfrDVrPLQZHzOobkQ57lma-YXoyfA)
 
-I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Shopify expert who creates educational content for newbies and other developers who are willing to learn something new!
+I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Webflow expert who creates educational content for newbies and other developers who are willing to learn something new!
 
 ## About me:-
-- I’m currently working as React developer
+- I’m currently working as MERN Stack developer
 - Expanding my knowledge in Full-Stack Development
 - Looking to expand my network by connecting with other developers!
 - Love to work on open source projects
-- 2022 Goals: Want to become an expert in Full-Stack development, DevOps engineering and DSA
+- 2022 Goals: Want to become an expert in Full-Stack development and DSA
 
 
 
@@ -21,10 +21,12 @@ I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Shopify expe
 
 ## My Skillset:-
 - HTML 5 & CSS 3
-- SASS
-- Bootstrap
+- SASS & Bootstrap
 - JavaScript & jQuery
-- React JS & Redux
+- React.JS & Redux
+- Next.JS
+- Node.JS & Express.JS
+- MongoDB
 - Firebase
 - Strapi (Headless CMS)
 - WordPress
