@@ -1,35 +1,41 @@
 # Hi there 👋, I'm Hasnaat
-**JavaScript Developer | Content Creator | MERN Stack developer | Love to teach CS concepts**
+**MERN Stack developer (React, Next.js, Node.js, Express, MongoDB) | WordPress | Webflow developer**
 
-![](https://media-exp1.licdn.com/dms/image/C4E16AQHAyLHmndf82A/profile-displaybackgroundimage-shrink_350_1400/0/1635874472944?e=1651104000&v=beta&t=5JYM6HMBa6bnL3jfrDVrPLQZHzOobkQ57lma-YXoyfA)
+Hello, Nice having you here!
+I'm a junior MERN Stack developer, WordPress, and Webflow developer based in Lahore, PK. Love to build large-scale web applications. I'm a very passionate developer and keen to experience new technologies or libraries.
 
-I'm Hasnaat Iftikhar, an experienced Reactjs developer, WordPress & Webflow expert who creates educational content for newbies and other developers who are willing to learn something new!
+I'm truly liable for my work and with great relational abilities.<br />
 
-## About me:-
-- I’m currently working as MERN Stack developer
-- Expanding my knowledge in Full-Stack Development
-- Looking to expand my network by connecting with other developers!
-- Love to work on open source projects
-- 2022 Goals: Want to become an expert in Full-Stack development and DSA
+💡 **My focus:-**<br />
+・ Awesome & Responsive design<br />
+・ Clean and understandable code<br />
+・ Re-usable components<br />
+
+⚙ **Recent projects:-**<br />
+・Visiata (visiata.com)<br />
+・LinkedGolf (linked-golf.vercel.app)<br />
+・Gemini Charis (geminicharis.com)<br />
+・Dunkswap (dunkswap.com)<br />
+・V-management (vmgnt-dev.webflow.io)<br />
+
+🛢 **My working process:-**<br />
+・ Break the given project into different pieces and make their milestones<br />
+・ Review the whole design and make a style guide<br />
+・ Use Asana or Monday for Work management<br />
+
+**Development phase:**<br />
+・ In each week of development<br />
+・ 1-2 days of QA<br />
+・ Continues deployment where the client can review the progress<br />
+・ Weekly update of what I have done and what I'll do in next week<br />
+・ Focus on Clean, and Bug-free code<br />
+・ Push everyday progress on GitHub<br />
 
 
+I love to teach and learn something new. In my opinion, we all are in the learning stage, and we can make our skillset strong by teaching ourselves something new every day. And that is the thing that I am doing.
 
+I want to pass on my knowledge and skills to the newbies and junior developers. I'm always ready to help!
 
-**![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasnaat-Iftikhar&show_icons=true)**
+So, If you want to learn something new and want to become a better developer. So, just send me a connection. I will provide you best roadmap.
 
-
-
-## My Skillset:-
-- HTML 5 & CSS 3
-- SASS & Bootstrap
-- JavaScript & jQuery
-- React.JS & Redux
-- Next.JS
-- Node.JS & Express.JS
-- MongoDB
-- Firebase
-- Strapi (Headless CMS)
-- WordPress
-- Shopify
-- Webflow
-- Git & GitHub
+If you have any type of question and want to connect. So, please feel free to send me a connection request and follow me. Thank you!
